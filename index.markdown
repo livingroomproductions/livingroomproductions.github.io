@@ -4,4 +4,6 @@
 
 layout: home
 ---
-Welcome to Living Room Productions!
+Welcome to Living Room Productions.
+
+The site is under construction right now, but there will be more to see soon!
