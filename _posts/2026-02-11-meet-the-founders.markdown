@@ -3,7 +3,7 @@ layout: post
 title: Meet the Founders
 subtitle: How Living Room Productions got its start
 categories: markdown
-date: 2026-02-10 17:02:14 -0500
+date: 2026-02-11 17:02:14 -0500
 ---
 
 Living Room Productions started in 2024 when Lewis got a voucher for a sketch writing course. After a few weeks of writing and editing pieces, he wrote a commercial parody sketch. The sketch was an ad for furniture that assembles itself. The idea was that, throughout the ad, it would become increasingly clear that the furniture was alive. He wanted it to be creepy, and it was, but it wasn't creepy **enough**. So, he called his best friend Tristan for a punch-up.
