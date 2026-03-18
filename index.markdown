@@ -12,3 +12,5 @@ Tristan read the script and tossed out some ideas. "Add a hyena," he said, corre
 
 After that, Lewis and Tristan got into a groove as writers. They were pitching, writing, and editing as a team. In the summer of 2024, they decided to write a feature length script together. In 2026, they'll be co-directing that script at the Montreal Fringe Festival.
 
+
+**This site is still under construction, there will be more to see soon!**
